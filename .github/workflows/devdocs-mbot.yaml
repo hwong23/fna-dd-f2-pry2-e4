@@ -79,7 +79,7 @@ jobs:
           echo "PR14_NOMBRE=Administración de las transiciones hacia la arquitectura versión 2.0" >> $GITHUB_ENV
           echo "PR15_NOMBRE=Inventario de artefactos genéricos y concretos de aceleración de implementación" >> $GITHUB_ENV
           echo "PR16_NOMBRE=Análisis de impacto y modelos actualizados de los ítems de arquitectura" >> $GITHUB_ENV
-          echo "PR17_NOMBRE=Análisis" >> $GITHUB_ENV
+          echo "PR17_NOMBRE=Ítems de arquitectura incrementados en ejecución" >> $GITHUB_ENV
       - name: Cache
         uses: actions/cache@v3
         with:
