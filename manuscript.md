@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-22" />
   <meta name="citation_publication_date" content="2023-08-22" />
   <meta property="article:published_time" content="2023-08-22" />
-  <meta name="dc.modified" content="2023-08-22T20:45:17+00:00" />
-  <meta property="article:modified_time" content="2023-08-22T20:45:17+00:00" />
+  <meta name="dc.modified" content="2023-08-22T22:15:41+00:00" />
+  <meta property="article:modified_time" content="2023-08-22T22:15:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/873e07a15015bc1752b97a60db68f4367e0b1c86/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/873e07a15015bc1752b97a60db68f4367e0b1c86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/873e07a15015bc1752b97a60db68f4367e0b1c86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e4/v/873e07a15015bc1752b97a60db68f4367e0b1c86/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@873e07a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@1d7eacf](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 22, 2023.
 </em></small>
 
-|    **Versión** del producto 1.873e07a de 22 Aug 2023
+|    **Versión** del producto 1.1d7eacf de 22 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.873e07a del 22 Aug 2023 |
+| Versión        | 1.1d7eacf del 22 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    22 Aug 2023
 >
->    **Versión** 1.873e07a
+>    **Versión** 1.1d7eacf
 
 <br>
 
@@ -247,7 +247,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.873e07a** del 22 Aug 2023       |
+| Versión        | **1.1d7eacf** del 22 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -291,7 +291,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.873e07a** del 22 Aug 2023       |
+| Versión        | **1.1d7eacf** del 22 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -337,7 +337,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.873e07a** del 22 Aug 2023       |
+| Versión        | **1.1d7eacf** del 22 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -375,7 +375,7 @@ prnombre: "Ítems de arquitectura incrementados en ejecución"
 >
 >    22 Aug 2023
 >
->    **Versión** 1.873e07a
+>    **Versión** 1.1d7eacf
 
 <br>
 
@@ -398,7 +398,7 @@ Uno de los objetivos nominales de la gestión de la arquitectura de referencia S
 Los modelos de arquitectura de referencia 2.0 del FNA son también sujetos del gobierno, lo cual articula a ambos proyectos, el de gobierno (PRY01) con este.
 
 ## Contenidos
-1. Detalle de ítems de arquitectura de referencia SOA 2.0  del FNA
+1. Detalle de ítems de arquitectura de referencia SOA 2.0 del FNA
 1. Modelos actualizados del repositorio de arquitectura del FNA versión 0.3
 1. Herramienta de navegación del repositorio de arquitectura del FNA
 
@@ -422,6 +422,108 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 _Fuente: Elaboración propia._
 
 <br>
+
+
+| Tema           | Modelos actualizados de los ítems de arquitectura impactados por el proyecto: **Detalle de ítems de la línea base del FNA actualizados** |
+|----------------|--------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
+| Autor          |                                            |
+| Fuente         |                                            |
+| Versión        | **1.1d7eacf** del 22 Aug 2023       |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
+
+<br>
+
+# Detalle de Ítems de Arquitectura de Referencia del FNA Entregados
+En este proyecto denominamos ítems de arquitectura de referencia a los extractos, modelos y sus partes entregados por esta consultoría, E-Service Fase II. El detalle de esta entrega queda establecido en los siguientes temas.
+
+## Extracto de Modelos Analizados en Fase II, E-Service: arquitectura de referencia FNA
+Los modelos seleccionados (extractos) que presentamos en el siguiente cuadro conforman la arquitectura de referencia del FNA. Estos modelos fueron creados y posteriormente actualizados por el ejercicio actual, y por tanto, los entregamos al FNA a razón de este producto, PR17.
+
+Estos modelos se encuentran por ahora, mientras dura el PRY02, Arquitectura de Referencia SOA 2.0 del FNA, en la siguiente ubicación del repositorio intermedio de entregas, [Repositorio SOA](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Modelos?csf=1&web=1&e=LSEm4L).
+
+| Tema           | : **Subtema** |
+|----------------|---------------------------|
+| arqref.adopcion 1 | Arquitectura de Referencia SOA 2.0 del FNA. Consideraciones para la adopción. Capacidades y requerimientos para la adopción de arquitecturas en el FNA. versión 0.2 |
+| arqref.adopcion 2 | Arquitectura de Referencia SOA 2.0 del FNA. Consideraciones para la adopción. Relación capacidades y requerimientos para la adopción de arquitecturas en el FNA. versión 0.1 |
+| arqref.adopcion 3 | Arquitectura de Referencia SOA 2.0 del FNA. Consideraciones para la adopción en contexto con Gobierno FNA.. versión 0.2 |
+| arqref. Hoja de ruta. 1b. modelo oper SOA | Gobierno SOA del FNA. FLUJ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. Nivel 1. versión 0.2 |
+| ArqRef. FLARQ3. 1. Creación y mntto  | Arquitectura de Referencia SOA 2.0 del FNA. FLUJ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. Nivel 1. versión 0.2 |
+| ArqRef. FLARQ3. 2. Creación y mntto arqref | Arquitectura de Referencia SOA 2.0 del FNA. Estructura interna. FLARQ03. Flujo de Trabajo Creación y Mantenimiento de Arquitecturas de Referencia FNA. versión 0.3 |
+| arqref. Hoja de ruta. 1a. capacidades ||
+| arqref. Hoja de ruta. 1b. modelo oper SOA ||
+| ARQREF.0 ||
+| ARQREF.0 Objetivos 1 ||
+| ARQREF.0 Objetivos 2 ||
+| ARQREF.0 Objetivos 3 ||
+| ARQREF.0.Proceso ||
+| ARQREF.1.Malla Micross ||
+| ARQREF.2.Datos ||
+| ARQREF.3.Entrega ||
+| ARQREF.4.FNA ||
+
+Table: (Fuente) FNA_Arquitectura, proyecto "arquitectura fna.archimate". Extracto de Modelos Analizados en Fase II, E-Service: arquitectura de referencia FNA. {#tbl:relaciones-id}
+
+<br>
+
+## Criterios de Desarrollo de la Arquitectura de Referencia FNA
+Un aspecto clave para mantener el sentido de completitud y orden de los modelos de la arquitectura de referencia del FNA es la vista de contexto desarrollada por esta consultoría para el Proyecto 2, Arquitectura de Referencia SOA 2.0 del FNA. Esta vista, o cualquier que haga las veces, es también el criterio que permite unir modelos de la arquitectura de referencia del FNA.
+
+![Vista funcional FNA, 2022, basada en mapa de servicios de la empresa. Criterio de selección de los modelos de la línea base de arquitectura del FNA, 2023.](images/vistafuncional.png){#fig:vistafuncional.png width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
+
+<br>
+
+
+
+## Análisis de los Modelos Actualizados
+Sobre los modelos actualizados (a los que llamamos línea base de arquitectura del FNA) haremos algunas menciones en cuanto a relaciones faltantes, y sus implicaciones, que deben ser atendidas por la Oficina de Arquitectura del FNA, y sus involucrados. La primera de estas es la relación más importante: la de negocio con tecnología, que es también un objetivo del Gobierno propuesto en este ejercicio.
+
+### Relación Negocio Tecnología
+En esta línea base de modelos del FNA presentan una débil relación de las áreas de negocio del FNA con otros elementos de la vista de segmento de empresa de este proyecto. Estos modelos no registran a un nivel mínimo necesario la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
+
+    Importante: la relación tecnología y negocio que debe estar presente en los modelos es importante para los análisis planteados en este ejercicio de Gobierno SOA del FNA. Si en los modelos falta esta, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, o si estos responden a las necesidades de negocio, operación.
+
+La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de negocio Legalización.
+
+### Relación Procesos Servicios
+La línea base de arquitectura presenta bajo nivel de información respecto de la relación de los procesos de negocio con los servicios SOA del FNA, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. 
+
+La vista siguiente muestra esta falta de información en la relación entre los procesos de negocio y los servicios. Este análisis considera un espectro de relación con profundidad de nivel 3. 
+
+![Vista de relación entre los procesos misionales del FNA con servicios y las aplicaciones. Los modelos de la línea base de arquitectura contienen poca información de esta relación.](images/VistaRelacionProcesosServicios.png){#fig:VistaRelacionProcesosServicios.png width=}
+
+_Fuente: elaboración propia._
+
+<br>
+
+Lo que muestra la vista puede responder a una realidad probable en la que el Fondo tiene categorías de servicios no tanto de procesos como utilitarios, o que los modelos simplemente no contienen estas relaciones. Aumentar el nivel de información de la línea base de arquitectura del FNA y que respondan a los análisis procesos tecnología es algo que la Oficina de Arquitectura debe tener en su lista de trabajo.
+
+El nivel de relacionamiento dado por el número de encuentro entre cada proceso y las aplicaciones del FNA, y que presentamos en la tabla siguiente, nos indica que los que agrupan la mayor cantidad de servicios (aplicaciones) son el proceso de Facturación y Cartera (23 relaciones a aplicaciones), el proceso de Gestión de Crédito (19 relaciones a aplicaciones) y el de Gestión Comercial (9 relaciones a aplicaciones). Abajo visualizamos las relaciones de uno de los procesos para conocer las aplicaciones del FNA con las que este tiene relación.
+
+| **Proceso**                     | **Relaciones** |
+|---------------------------------|----------------|
+| Facturación y Cartera           | **23**         |
+| Gestión de Crédito              | **19**         |
+| Gestión Comercial               | 9              |
+| Cesantías                       | 5              |
+| Comunicación                    | 3              |
+| Gestión Jurídica                | 3              |
+| Contrataciones                  | 3              |
+| Gestión Administrativa          | 3              |
+| Gestión Comercial               | 3              |
+| Mercadeo                        | 2              |
+| Aporte de Cesantías             | 2              |
+| Gestión Comercial, Comunicación | 1              |
+| Gestión Humana                  | 1              |
+| Captación de Ahorro Voluntario  | 1              |
+| **Total general**               | **97**         |
+
+Table: (Fuente) _InventarioAplicacionesFNA.xlsx_. Procesos del FNA con mayor cantidad de relaciones a servicios y aplicaciones. {#tbl:relaciones-id}
+
+<br>
+
 
 
 <div style="page-break-before: always;"></div>
