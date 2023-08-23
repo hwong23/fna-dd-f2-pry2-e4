@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-22'
+date-meta: '2023-08-23'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-22" />
-  <meta name="citation_publication_date" content="2023-08-22" />
-  <meta property="article:published_time" content="2023-08-22" />
-  <meta name="dc.modified" content="2023-08-22T22:15:41+00:00" />
-  <meta property="article:modified_time" content="2023-08-22T22:15:41+00:00" />
+  <meta name="dc.date" content="2023-08-23" />
+  <meta name="citation_publication_date" content="2023-08-23" />
+  <meta property="article:published_time" content="2023-08-23" />
+  <meta name="dc.modified" content="2023-08-23T17:46:18+00:00" />
+  <meta property="article:modified_time" content="2023-08-23T17:46:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e4/v/1d7eacf98c6c1f7ac906b93d1a648ba74f44eb7c/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@1d7eacf](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 22, 2023.
+[Sharepoint STEF@c617ccf](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 23, 2023.
 </em></small>
 
-|    **Versión** del producto 1.1d7eacf de 22 Aug 2023
+|    **Versión** del producto 1.c617ccf de 23 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.1d7eacf del 22 Aug 2023 |
+| Versión        | 1.c617ccf del 23 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -183,9 +183,9 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    FNA, Stefanini
 >
->    22 Aug 2023
+>    23 Aug 2023
 >
->    **Versión** 1.1d7eacf
+>    **Versión** 1.c617ccf
 
 <br>
 
@@ -247,7 +247,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.1d7eacf** del 22 Aug 2023       |
+| Versión        | **1.c617ccf** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -291,7 +291,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.1d7eacf** del 22 Aug 2023       |
+| Versión        | **1.c617ccf** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -337,7 +337,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.1d7eacf** del 22 Aug 2023       |
+| Versión        | **1.c617ccf** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -373,9 +373,9 @@ prnombre: "Ítems de arquitectura incrementados en ejecución"
 >
 >    FNA, Stefanini
 >
->    22 Aug 2023
+>    23 Aug 2023
 >
->    **Versión** 1.1d7eacf
+>    **Versión** 1.c617ccf
 
 <br>
 
@@ -429,7 +429,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.1d7eacf** del 22 Aug 2023       |
+| Versión        | **1.c617ccf** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -478,52 +478,36 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 
 ## Análisis de los Modelos Actualizados
-Sobre los modelos actualizados (a los que llamamos línea base de arquitectura del FNA) haremos algunas menciones en cuanto a relaciones faltantes, y sus implicaciones, que deben ser atendidas por la Oficina de Arquitectura del FNA, y sus involucrados. La primera de estas es la relación más importante: la de negocio con tecnología, que es también un objetivo del Gobierno propuesto en este ejercicio.
+Procedemos a describir los modelos creados concernientes a este producto, arquitectura de referencia del FNA. Mencionaremos detalles como los ítems relevantes que explican el concepto general de esta arquitectura, que es la relación con la misión del Fondo Nacional, las implicaciones necesarias que se extienden a la oficina de arquitectura del FNA (PRY01 de esta consultoría), y a los involucrados a los que impactan los planteamientos que desde estos modelos hacemos.
 
-### Relación Negocio Tecnología
-En esta línea base de modelos del FNA presentan una débil relación de las áreas de negocio del FNA con otros elementos de la vista de segmento de empresa de este proyecto. Estos modelos no registran a un nivel mínimo necesario la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
+### Relación Arquitectura y Misión del FNA
+El modelo de arquitectura de referencia SOA 2.0 entregado por este proyecto hace relación con la misionalidad de la empresa en aspectos como los segmentos funcionales. Estos segmentos se visualizan en el diagrama conceptual (ver [ARQREF0. Vista Funcional de la Arquitectura de Referencia 2.0. Servicios y Aplicaciones]). Traemos a mención estos segmentos mediados por el carácter público y misional del FNA.
 
-    Importante: la relación tecnología y negocio que debe estar presente en los modelos es importante para los análisis planteados en este ejercicio de Gobierno SOA del FNA. Si en los modelos falta esta, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, o si estos responden a las necesidades de negocio, operación.
+#### Segmentos del Modelo Funcional de la Arquitectura de Referencia
+1. Canales. Sitios físicos o electrónicos en relación con los clientes.
+1. Intermediación con Clientes. Medio físicos o electrónicos de interoperatividad del FNA con los clientes.
+1. Productos de la Empresa al Cliente. Productos de negocio ofertados, relación con clientes. Son colecciones de servicios que funcionan como una unidad.
+1. Trámites (procedimientos documentales) FNA. Procesos relacionados con los productos o clientes del FNA. Basados en documentación física o digital. Ejemplo, trámite de afiliaciones y retiros, el retiro de cesantías, aperturas, etc.
+1. Transacciones FNA. Unidades de intercambio de beneficios y registros de Crédito, Cartera, Garantías, Cuenta AVC.
+1. Fuentes de Información Referencial Transaccional. Acceso a información requerida por las transacciones del FNA, como listas blancas, seguros, Registraduría.
+1. Fuentes de Información Provistas. Exposición de entidades y componentes de datos (reportes, esquemas, archivos...) al Bco. de la República, Ministerios, entre otros.
+1. Procesamiento de información. Procesamiento de lotes diario o eventual del FNA, como contabilidad, elaboración de certificados, envío de mensajes electrónicos, descarga de información, emisión de documentos digitales, indexaciones, etc.
 
-La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de negocio Legalización.
+#### Segmentos del Modelo Público de la Arquitectura de Referencia
+1. Intermediación con Gobierno Nacional. Medio físicos o electrónicos de interoperatividad del FNA con entidades del Estado, como la Superintendencia Financiera de Colombia, Min Hacienda y MinTIC.
+1. Actividad regulatoria del FNA. Procesos de intercambio de funciones regulatorias o sancionatorias e intercambio de información de seguridad debida al cumplimiento exigido por el Gobierno Nacional.
+1. Fuentes de Información Referencial Pública. Acceso a datos de entidades públicas, como Formatos de  Ministerios, Registros de Asobancos, tasas del Bco. de la República.
+1. Procesamiento de información. Procesamiento de lotes diario o eventual del FNA, como contabilidad, elaboración de certificados, envío de mensajes electrónicos, descarga de información, emisión de documentos digitales, indexaciones, etc.
 
-### Relación Procesos Servicios
-La línea base de arquitectura presenta bajo nivel de información respecto de la relación de los procesos de negocio con los servicios SOA del FNA, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. 
+Los segmentos están ilustrados en la vista funcional siguiente. Primera versión del modelo de referencia del dominio de servicios y aplicaciones 2.0 del FNA. 
 
-La vista siguiente muestra esta falta de información en la relación entre los procesos de negocio y los servicios. Este análisis considera un espectro de relación con profundidad de nivel 3. 
+![Fondo Nacional del Ahorro - Arquitectura de Referencia 2.0. Vista funcional del dominio de servicios y aplicaciones del FNA.](images/ARQREF.0.a1.Segmentos.png){#fig:ARQREF.0.a1.Segmentos.png width= height=}
 
-![Vista de relación entre los procesos misionales del FNA con servicios y las aplicaciones. Los modelos de la línea base de arquitectura contienen poca información de esta relación.](images/VistaRelacionProcesosServicios.png){#fig:VistaRelacionProcesosServicios.png width=}
+La arquitectura de referencia, desde la perspectiva funcional, informa el cómo de su organización tecnológica-misional, lo cual es conveniente para la alineación negocio con tecnología. 
 
-_Fuente: elaboración propia._
-
-<br>
-
-Lo que muestra la vista puede responder a una realidad probable en la que el Fondo tiene categorías de servicios no tanto de procesos como utilitarios, o que los modelos simplemente no contienen estas relaciones. Aumentar el nivel de información de la línea base de arquitectura del FNA y que respondan a los análisis procesos tecnología es algo que la Oficina de Arquitectura debe tener en su lista de trabajo.
-
-El nivel de relacionamiento dado por el número de encuentro entre cada proceso y las aplicaciones del FNA, y que presentamos en la tabla siguiente, nos indica que los que agrupan la mayor cantidad de servicios (aplicaciones) son el proceso de Facturación y Cartera (23 relaciones a aplicaciones), el proceso de Gestión de Crédito (19 relaciones a aplicaciones) y el de Gestión Comercial (9 relaciones a aplicaciones). Abajo visualizamos las relaciones de uno de los procesos para conocer las aplicaciones del FNA con las que este tiene relación.
-
-| **Proceso**                     | **Relaciones** |
-|---------------------------------|----------------|
-| Facturación y Cartera           | **23**         |
-| Gestión de Crédito              | **19**         |
-| Gestión Comercial               | 9              |
-| Cesantías                       | 5              |
-| Comunicación                    | 3              |
-| Gestión Jurídica                | 3              |
-| Contrataciones                  | 3              |
-| Gestión Administrativa          | 3              |
-| Gestión Comercial               | 3              |
-| Mercadeo                        | 2              |
-| Aporte de Cesantías             | 2              |
-| Gestión Comercial, Comunicación | 1              |
-| Gestión Humana                  | 1              |
-| Captación de Ahorro Voluntario  | 1              |
-| **Total general**               | **97**         |
-
-Table: (Fuente) _InventarioAplicacionesFNA.xlsx_. Procesos del FNA con mayor cantidad de relaciones a servicios y aplicaciones. {#tbl:relaciones-id}
+    Importante: la relación tecnología y negocio está presente en los modelos de la arquitectura de referencia SOA 2.0 del FNA. Gracias a esta relación los modelos se vuelven la clave pueden gestionar la demanda de transición de cada segmento, la demanda de los servicios SOA del Fondo, y si estos responden o no a las necesidades de las vicepresidencias de crédito y de operaciones del Fondo Nacional.
 
 <br>
-
 
 
 <div style="page-break-before: always;"></div>
