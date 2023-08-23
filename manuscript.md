@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-23" />
   <meta name="citation_publication_date" content="2023-08-23" />
   <meta property="article:published_time" content="2023-08-23" />
-  <meta name="dc.modified" content="2023-08-23T17:46:18+00:00" />
-  <meta property="article:modified_time" content="2023-08-23T17:46:18+00:00" />
+  <meta name="dc.modified" content="2023-08-23T18:07:20+00:00" />
+  <meta property="article:modified_time" content="2023-08-23T18:07:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/af98c8ff90a48d6f4b8f1a28d71abd234bdf72a8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/af98c8ff90a48d6f4b8f1a28d71abd234bdf72a8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e4/v/af98c8ff90a48d6f4b8f1a28d71abd234bdf72a8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e4/v/c617ccfdb19f20f586caaf7880f59af9750728fa/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e4/v/af98c8ff90a48d6f4b8f1a28d71abd234bdf72a8/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@c617ccf](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@af98c8f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 23, 2023.
 </em></small>
 
-|    **Versión** del producto 1.c617ccf de 23 Aug 2023
+|    **Versión** del producto 1.af98c8f de 23 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.c617ccf del 23 Aug 2023 |
+| Versión        | 1.af98c8f del 23 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    23 Aug 2023
 >
->    **Versión** 1.c617ccf
+>    **Versión** 1.af98c8f
 
 <br>
 
@@ -242,12 +242,12 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 <div style="page-break-before: always;"></div>
 \newpage
 
-| Tema           | Modelos actualizados de los ítems de arquitectura impactados por el proyecto: **Detalle de ítems de la arquitectura de referencia del FNA actualizados** |
-|----------------|--------------------------------------------------------|
+| Tema           | Modelos actualizados de los ítems de arquitectura impactados por el proyecto: **Detalle de ítems de la arquitectura de referencia del FNA actualizados**  |
+|----------------|-------------------------------------------------------------------------------------------|
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
-| Autor          |                                            |
-| Fuente         |                                            |
-| Versión        | **1.c617ccf** del 23 Aug 2023       |
+| Autor          |                                                                            |
+| Fuente         |                                                                            |
+| Versión        | **1.af98c8f** del 23 Aug 2023                                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -260,10 +260,15 @@ Los modelos seleccionados (extractos) que presentamos en el siguiente cuadro con
 
 Estos modelos se encuentran por ahora, mientras dura el PRY02, Arquitectura de Referencia SOA 2.0 del FNA, en la siguiente ubicación del repositorio intermedio de entregas, [Repositorio SOA](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Modelos?csf=1&web=1&e=LSEm4L).
 
-* ae_fna.archimate
-* ae_fna_as_is.archimate
-* arquitectura fna.archimate
-* fna_proyectos v2.0.archimate
+
+| Archivo                      | Modificación |
+|------------------------------|--------------|
+| ae_fna.archimate             | Contenedor principal de arquitectura del FNA |
+| ae_fna_as_is.archimate       | Contenedor secundario de arquitectura del FNA |
+| arquitectura fna.archimate   | Contenedor de modelos de aplicación de arquitectura del FNA |
+| fna_proyectos v2.0.archimate | Modelos de transición del FNA |
+
+Table: FNA_Arquitectura, proyecto "arquitectura fna.archimate". Extracto de Modelos Analizados en Fase II, E-Service: arquitectura de referencia FNA. {#tbl:relaciones-id}
 
 <br>
 
@@ -291,7 +296,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.c617ccf** del 23 Aug 2023       |
+| Versión        | **1.af98c8f** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -337,7 +342,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 | Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.c617ccf** del 23 Aug 2023       |
+| Versión        | **1.af98c8f** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -375,7 +380,7 @@ prnombre: "Ítems de arquitectura incrementados en ejecución"
 >
 >    23 Aug 2023
 >
->    **Versión** 1.c617ccf
+>    **Versión** 1.af98c8f
 
 <br>
 
@@ -424,12 +429,19 @@ _Fuente: Elaboración propia._
 <br>
 
 
+---
+prnombre: "Ítems de arquitectura incrementados en ejecución"
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
 | Tema           | Modelos actualizados de los ítems de arquitectura impactados por el proyecto: **Detalle de ítems de la línea base del FNA actualizados** |
 |----------------|--------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos  |
 | Autor          |                                            |
 | Fuente         |                                            |
-| Versión        | **1.c617ccf** del 23 Aug 2023       |
+| Versión        | **1.af98c8f** del 23 Aug 2023       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -508,6 +520,71 @@ La arquitectura de referencia, desde la perspectiva funcional, informa el cómo 
     Importante: la relación tecnología y negocio está presente en los modelos de la arquitectura de referencia SOA 2.0 del FNA. Gracias a esta relación los modelos se vuelven la clave pueden gestionar la demanda de transición de cada segmento, la demanda de los servicios SOA del Fondo, y si estos responden o no a las necesidades de las vicepresidencias de crédito y de operaciones del Fondo Nacional.
 
 <br>
+
+
+---
+prnombre: "Ítems de arquitectura incrementados en ejecución"
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | : **Herramienta de navegación del repositorio de arquitectura del FNA**                           |
+|----------------|---------------------------------------------------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de Referencia, Diseño, Modelos, Bloques de Construcción                                     |
+| Autor          |                                                                                                               |
+| Fuente         |                                                                                                               |
+| Versión        | **1.af98c8f** del 23 Aug 2023                                                                          |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
+
+<br>
+
+# Repositorio de Arquitectura del FNA Actualizado con Arquitectura de referencia Inicial
+El repositorio de arquitectura cumple el rol adicional de impulsar la evolución de la alineación de la tecnología con las áreas misionales del Fondo (objetivo fundamental del gobierno FNA. Ver Proyecto 01 de esta consultoría) dado que el repositorio de arquitectura del FNA contiene ahora información inicial del instrumento de planeación llamado arquitectura de referencia 2.0 del FNA.
+
+| **Contenidos ARQREF 2.0 FNA**      |          |
+|------------------------------------|----------|
+| Adopción                           | 3        |
+| Arquitectura                       | 10       |
+| Hoja de Ruta                       | 2        |
+| Oficina Arq. FNA                   | 4        |
+| **Total Contenidos agregados**     | **19** |
+
+Table: Clasificación de información de modelos agregados al repositorio del FNA, versión 0.5. {#tbl:contenidos-id}
+
+_Fuente: elaboración propia._
+
+<br>
+
+Para iniciar los proyectos de transición y de gestión de la tecnología para el negocio de FNA, basados en estos modelos, hay que continuar aportando información y llevar los niveles de detalle a más aspectos de la arquitectura, así como evitar los problemas de colaboración del repositorio, como los siguientes:
+
+1. Redundancias y el atraso de la información de los modelos y conceptos. 
+1. Incompletitud en el modelamiento de conceptos, como las capacidades de negocio, o los procesos de negocio del FNA.
+1. Inconsistencia en el lenguaje de modelado. Falta estandarizar nombres y formas de representación de los mismo conceptos entre modelos.
+
+<br>
+
+
+# Herramienta de Navegación del Repositorio de Arquitectura del FNA, versión 0.5
+Para apoyar la gestión de la alineación de la tecnología del Fondo guiada por la arquitectura, hemos creado una herramienta de búsqueda, navegación y clasificación de los contenidos del repositorio del FNA
+
+![Herramienta para navegación y clasificación de contenidos del FNA.](images/libreria.png){#fig:libreria.png width=}
+
+_Fuente: elaboración propia._
+
+## Anexo 2. Modelos FNA Actualizados por Arquitectura de Referencia
+La siguiente tabla indica los modelos actualizados por el ejercicio actual y por tanto, entregados al FNA, objeto de este producto, PR17.
+
+Estos modelos se encuentran por ahora, mientras dura el proyecto en repositorio intermedio de entregas [Repositorio SOA](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Modelos?csf=1&web=1&e=LSEm4L).
+
+| Archivo                      | Modificación |
+|------------------------------|--------------|
+| ae_fna.archimate             | Contenedor principal de arquitectura del FNA |
+| ae_fna_as_is.archimate       | Contenedor secundario de arquitectura del FNA |
+| arquitectura fna.archimate   | Contenedor de modelos de aplicación de arquitectura del FNA |
+| fna_proyectos v2.0.archimate | Modelos de transición del FNA |
+
+Table: FNA_Arquitectura, proyecto "arquitectura fna.archimate". Extracto de Modelos Analizados en Fase II, E-Service: arquitectura de referencia FNA. {#tbl:relaciones-id}
 
 
 <div style="page-break-before: always;"></div>
